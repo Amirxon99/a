@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+    background-color: rgb(172, 172, 240);
+    border-radius: 50px;
+    border: 3px solid red;
+    color: rgb(7, 7, 31);
+}
+i{
+    color: rgb(138, 9, 9);
+    font-weight: 900;
+}
+h3{
+    color: green;
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+    background-color: yellow;
+    color: green;
+    font-size: 32px;
+}
+img{
+    width: 600px;
+    height: 400px;
+}
+textarea{
+    width: 1300px;
+    height: 40px;
+}
+button{
+        width: 300px;
+        height: 60px;
+        background-color: rgb(56, 194, 239);
+        font-size: 28px;
+        color: white;
+        border: none;
+}
+table,tr,td{
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+    color: white;
+    height: 30px;
+}
+.yashil{
+    width: 200px;
+    background-color: green;
+}
+.qizil{
+    width: 200px;
+    background-color: red;
+}
+.kok{
+    width: 900px;
+    background-color: blue;
+}
+.qora{
+    width: 900px;
+    background-color: black;
+}
